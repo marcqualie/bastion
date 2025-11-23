@@ -1,4 +1,4 @@
-FROM alpine:3.21.0
+FROM alpine:3.21.5
 WORKDIR /root
 
 RUN apk add openssh curl
